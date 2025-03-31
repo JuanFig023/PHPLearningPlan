@@ -1,47 +1,40 @@
 # Learning Journal - Learning a Second Language
 A template for SWE apprentices to record and reflection their learnings over the course of their 2nd language learning in SWE2.0 Bootcamp Weeks 9 and 10
 ---
-   - Learner: {Apprentice Name Here}
-   - Date: {Scope of project - this should match the dates of weeks 9-10 of bootcamp}
+   - Learner: Juan Figueroa
+   - Date: 3/31/2025 - 4/11/2025
 
 ### Resources:
-   - [Learning Plan](https://swe-learning-plans.netlify.app/)
+   - [Learning Plan - PHP](https://swe-learning-plans.netlify.app/languages/php.html)
+   - [PHP Course 1 - Laracasts: PHP For Beginners](https://laracasts.com/series/php-for-beginners-2023-edition)
+   - [PHP Course 2 - Program with Gio: Learn PHP The Right Way](https://www.youtube.com/watch?v=sVbEyFZKgqk&list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-)
 
 ## Overall Objectives for learning:
 By the end of the first two weeks. I will have developed my skill in:
 
 [//]: # (The example\(s\) below should be specifics of the content that you plan on covering over the course of the 2 week learning period.  Additionally, they should be based directly on feedback from your manager.)
-   - *Example:* Python programming fundamentals
-   - *Example:* SQL queries fundamentals
-   - *Example:* DDEX as domain knowledge
-
+   - PHP programming fundamentals
 ## Goals/Deliverables to show Success
 I will have completed the following courses/resources/tasks/artifacts as evidence for development:
 
 [//]: # (The example\(s\) below are EXHAUSTIVE, and should be attinable within the scope of the two weeks. You can have stretch goals if you like, but be reasonable with yourself in terms of what is a fair workload)
-   - *Example:* Python
-      - Python for Programmers - [Codecademy](https://www.codecademy.com/learn/python-for-programmers)
-      - Build a Basic Game - [Pong](https://www.freecodecamp.org/news/beginners-python-tutorial-pong/)
-      - Planning for advanced [projects with LLMS](https://www.freecodecamp.org/news/development-with-large-language-models/)
-   - *Example:* Domain Knowledge - DDEX
-     - Summary Notes - [Watch and review DDEX Overview](https://www.youtube.com/watch?v=DEMlOLR48Xw)
-     - Summary Notes - [Watch and review Intro to DDEX Standards Implementation](https://www.youtube.com/watch?v=gckVvLEr1Q4)
-     - Cheatsheet - [summary of DDEX standards](https://ddex.net/standards/)  
+   - PHP
+      - Either course 1 or 2, I first want to see which learning style I prefer.
    
 ## Learning Schedule:
 
 [//]: # (Complete this outline to show what you plan on covering each day - remember however, that this will likely change depending on your pprogress.  That is fine - just update it when you need to!)
 
-- Monday [date]:
-- Tuesday [date]:
-- Wednesday [date]:
-- Thursday [date]:
-- Friday [date]:
-- Monday [date]:
-- Tuesday [date]:
-- Wednesday [date]:
-- Thursday [date]:
-- Friday [date]:
+- Monday [3/31/2025]: Find resources to learn PHP fundamentals and create learning plan.
+- Tuesday [4/1/2025]: Begin Course 1 or 2 try to get through Variables, Data Types, Conditionals, Functions.
+- Wednesday [4/2/2025]: Learn Arrays, Objects, Loops
+- Thursday [4/3/2025]: Continue learning other PHP fundamentals based on courses
+- Friday [4/4/2025]: Create a project using fundamentals
+- Monday [4/7/2025]:
+- Tuesday [4/8/2025]:
+- Wednesday [4/9/2025]:
+- Thursday [4/10/2025]:
+- Friday [4/11/2025]:
   
 --- 
 ## Daily Record:
