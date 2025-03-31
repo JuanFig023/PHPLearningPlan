@@ -8,7 +8,7 @@ A template for SWE apprentices to record and reflection their learnings over the
    - [Learning Plan - PHP](https://swe-learning-plans.netlify.app/languages/php.html)
    - [PHP Course 1 - Laracasts: PHP For Beginners](https://laracasts.com/series/php-for-beginners-2023-edition)
    - [PHP Course 2 - Program with Gio: Learn PHP The Right Way](https://www.youtube.com/watch?v=sVbEyFZKgqk&list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-)
-   - [If time allows - Jonas Schmedtmann](https://hplearn.udemy.com/course/the-ultimate-react-course/)
+   - [If time allows - Jonas Schmedtmann - React Course](https://hplearn.udemy.com/course/the-ultimate-react-course/)
 
 ## Overall Objectives for learning:
 By the end of the first two weeks. I will have developed my skill in:
