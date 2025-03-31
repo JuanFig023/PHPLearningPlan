@@ -8,18 +8,22 @@ A template for SWE apprentices to record and reflection their learnings over the
    - [Learning Plan - PHP](https://swe-learning-plans.netlify.app/languages/php.html)
    - [PHP Course 1 - Laracasts: PHP For Beginners](https://laracasts.com/series/php-for-beginners-2023-edition)
    - [PHP Course 2 - Program with Gio: Learn PHP The Right Way](https://www.youtube.com/watch?v=sVbEyFZKgqk&list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-)
+   - [If time allows - Jonas Schmedtmann](https://hplearn.udemy.com/course/the-ultimate-react-course/)
 
 ## Overall Objectives for learning:
 By the end of the first two weeks. I will have developed my skill in:
 
 [//]: # (The example\(s\) below should be specifics of the content that you plan on covering over the course of the 2 week learning period.  Additionally, they should be based directly on feedback from your manager.)
    - PHP programming fundamentals
+   - Depending on the time, diving deeper into React
 ## Goals/Deliverables to show Success
 I will have completed the following courses/resources/tasks/artifacts as evidence for development:
 
 [//]: # (The example\(s\) below are EXHAUSTIVE, and should be attinable within the scope of the two weeks. You can have stretch goals if you like, but be reasonable with yourself in terms of what is a fair workload)
    - PHP
       - Either course 1 or 2, I first want to see which learning style I prefer.
+   - If Possible
+      - React Udemy Course
    
 ## Learning Schedule:
 
@@ -30,11 +34,11 @@ I will have completed the following courses/resources/tasks/artifacts as evidenc
 - Wednesday [4/2/2025]: Learn Arrays, Objects, Loops
 - Thursday [4/3/2025]: Continue learning other PHP fundamentals based on courses
 - Friday [4/4/2025]: Create a project using fundamentals
-- Monday [4/7/2025]:
-- Tuesday [4/8/2025]:
-- Wednesday [4/9/2025]:
-- Thursday [4/10/2025]:
-- Friday [4/11/2025]:
+- Monday [4/7/2025]: Begin React course
+- Tuesday [4/8/2025]: Continue React Course
+- Wednesday [4/9/2025]: Continue React Course
+- Thursday [4/10/2025]: Continue React Course
+- Friday [4/11/2025]: Build a project possibly using PHP and React
   
 --- 
 ## Daily Record:
@@ -54,3 +58,12 @@ Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 | Reflection on what I learned today |  # How this will apply on the job, something you found enjoyable, insightful, difficult, or questions that arose as result of the learning |   
 | Reflection on how I learned today | # Why was today a good or bad day?  What patterns am I noticing in myself when learning?  How effective was I today as an independent learner?  |
 | Reflections for the following day| # Am I on track against my original goals, or is there a need to adapt? What support will I need from my coach with any changes I may need to make? |
+
+| Today's Date  |   3/31/2025      | 
+|---|---|
+| What content plan to cover  |  Look into PHP resources |   
+| What content I actually covered | I was able to find two interesting courses, I would like to explore each a bit to see which learning style I prefer |  
+| Reflection on what I learned today |  N/A |   
+| Reflection on how I learned today | N/A  |
+| Reflections for the following day| I will start with course 1 and set up my IDE with PHP |
+
