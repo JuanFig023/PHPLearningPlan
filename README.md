@@ -67,3 +67,18 @@ Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 | Reflection on how I learned today | N/A  |
 | Reflections for the following day| I will start with course 1 and set up my IDE with PHP |
 
+| Today's Date  |   4/1/2025      | 
+|---|---|
+| What content plan to cover  |  Started Course 1 |   
+| What content I actually covered | I covered setting up my PHP environment, variables, Conditions & Booleans |  
+| Reflection on what I learned today |  It was interesting to see how these concepts are used in PHP as opposed to JavaScript |   
+| Reflection on how I learned today | Today was a great day, I had issues at first setting up PHP, but eventually got it all to work. Besides that I've been implementing the Pomodoro method and it seems to be working. |
+| Reflections for the following day| I will continue the course and go over Arrays and Functions |
+
+| Today's Date  |   4/2/2025      | 
+|---|---|
+| What content plan to cover  |  Arrays & Functions |   
+| What content I actually covered | learned about arrays and Functions |  
+| Reflection on what I learned today | Continued learning the fundamentals and copmpleted some practice problems to ensure I am understanding |   
+| Reflection on how I learned today | I stayed focused and continued to watch the course, I experienced some issues with my PHP environment but managed to fix it.  |
+| Reflections for the following day| I will continue the course and learn about superglobals and loops |
