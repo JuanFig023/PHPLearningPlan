@@ -8,22 +8,22 @@ A template for SWE apprentices to record and reflection their learnings over the
    - [Learning Plan - PHP](https://swe-learning-plans.netlify.app/languages/php.html)
    - [PHP Course 1 - Laracasts: PHP For Beginners](https://laracasts.com/series/php-for-beginners-2023-edition)
    - [PHP Course 2 - Program with Gio: Learn PHP The Right Way](https://www.youtube.com/watch?v=sVbEyFZKgqk&list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-)
-   - [If time allows - Jonas Schmedtmann - React Course](https://hplearn.udemy.com/course/the-ultimate-react-course/)
+   - [PHP Course 3 - Codecademy : PHP Foundamentals](https://www.codecademy.com/catalog/language/php)
 
 ## Overall Objectives for learning:
 By the end of the first two weeks. I will have developed my skill in:
 
 [//]: # (The example\(s\) below should be specifics of the content that you plan on covering over the course of the 2 week learning period.  Additionally, they should be based directly on feedback from your manager.)
    - PHP programming fundamentals
-   - Depending on the time, diving deeper into React
+   - Look into testing framework Cypress
 ## Goals/Deliverables to show Success
 I will have completed the following courses/resources/tasks/artifacts as evidence for development:
 
-[//]: # (The example\(s\) below are EXHAUSTIVE, and should be attinable within the scope of the two weeks. You can have stretch goals if you like, but be reasonable with yourself in terms of what is a fair workload)
+[//]: # (The example\(s\) below are EXHAUSTIVE, and should be attainable within the scope of the two weeks. You can have stretch goals if you like, but be reasonable with yourself in terms of what is a fair workload)
    - PHP
-      - Either course 1 or 2, I first want to see which learning style I prefer.
-   - If Possible
-      - React Udemy Course
+      - Learn from a mixture of resources, create projects displaying php fundamentals.
+   - Cypress
+      - Practice creating front-end tests. 
    
 ## Learning Schedule:
 
@@ -31,14 +31,14 @@ I will have completed the following courses/resources/tasks/artifacts as evidenc
 
 - Monday [3/31/2025]: Find resources to learn PHP fundamentals and create learning plan.
 - Tuesday [4/1/2025]: Begin Course 1 or 2 try to get through Variables, Data Types, Conditionals, Functions.
-- Wednesday [4/2/2025]: Learn Arrays, Objects, Loops
-- Thursday [4/3/2025]: Continue learning other PHP fundamentals based on courses
-- Friday [4/4/2025]: Create a project using fundamentals
-- Monday [4/7/2025]: Begin React course
-- Tuesday [4/8/2025]: Continue React Course
-- Wednesday [4/9/2025]: Continue React Course
-- Thursday [4/10/2025]: Continue React Course
-- Friday [4/11/2025]: Build a project possibly using PHP and React
+- Wednesday [4/2/2025]: Learn Arrays(Associative Arrays), Loops
+- Thursday [4/3/2025]: Continued learning Functions,Loops,Arrays
+- Friday [4/4/2025]: Database Connections in PHP
+- Monday [4/7/2025]: OOP in PHP
+- Tuesday [4/8/2025]: testing in PHP
+- Wednesday [4/9/2025]: Introduction to Cypress
+- Thursday [4/10/2025]: Continued work on Cypress
+- Friday [4/11/2025]: Work on project with php back-end and cypress testing for the front-end
   
 --- 
 ## Daily Record:
@@ -79,6 +79,23 @@ Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 |---|---|
 | What content plan to cover  |  Arrays & Functions |   
 | What content I actually covered | learned about arrays and Functions |  
-| Reflection on what I learned today | Continued learning the fundamentals and copmpleted some practice problems to ensure I am understanding |   
+| Reflection on what I learned today | Continued learning the fundamentals and completed some practice problems to ensure I am understanding |   
 | Reflection on how I learned today | I stayed focused and continued to watch the course, I experienced some issues with my PHP environment but managed to fix it.  |
 | Reflections for the following day| I will continue the course and learn about superglobals and loops |
+
+| Today's Date  |   4/3/2025      | 
+|---|---|
+| What content plan to cover  |  Arrays, Functions, Loops |   
+| What content I actually covered | continued learning about Arrays,Functions,Loops |  
+| Reflection on what I learned today | Continued learning the fundamentals and completed some practice problems to ensure I am understanding |   
+| Reflection on how I learned today | Today was a good day, I continued watching my course and following along in my own environment |
+| Reflections for the following day| I want to start exploring OOP or connecting to a database |
+
+| Today's Date  |   4/4/2025      | 
+|---|---|
+| What content plan to cover  | Working with a database |   
+| What content I actually covered | learned about working with a database using php |  
+| Reflection on what I learned today | I need to learn php mainly for the backend, I focused on learning about routes and connecting to a database |   
+| Reflection on how I learned today | Today was a bit slower, I spent a lot of time using multiple resources to try to make my database work|
+| Reflections for the following day| For the next week, I want to continue focusing on PHP and focus on project building |
+
